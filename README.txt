@@ -1,0 +1,2 @@
+这个视频网站我用的是spring boot+vue2架构，开发软件为IDEA和Navicat。
+前端通过在vue ui创建vue文件并在IDEA上编写代码，后端通过在navicat上创建mySQL数据库，并在IDEA上创建web文件连接。
